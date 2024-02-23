@@ -1,7 +1,5 @@
 # PRELIMINARIES ----
 library(tidyverse)
-install.packages("tibble")
-library(tibble)
 
 scrabble_wrds <- "https://raw.githubusercontent.com/difiore/ada-2024-datasets/main/google-10000-english-usa-no-swears.txt"
 google_words <- "https://raw.githubusercontent.com/difiore/ada-2024-datasets/main/collins-scrabble-words-2019.txt"
